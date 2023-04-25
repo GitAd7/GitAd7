@@ -5,7 +5,8 @@ I'm looking to collabrate on Machine Learning and Deep Learning Projects.
 Also I've a good knowledge and Expirence of Working on NLP.
 How to reach me- adesht15@gmail.com
 
-
+My GitAd7 repo conatins the code related with core python and the projects I have completed while and after learning.
+I still try to make new projects and keep learning new things and ways to do the same thing.
 <!--
 **GitAd7/GitAd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

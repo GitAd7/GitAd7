@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Adesh Singh Tomar and Currently I am pursuing my Bachelor with working towards to ba a Data Scientist.
+My name is Adesh Singh Tomar and Currently I am pursuing my Bachelor with working towards to be a Data Scientist.
 I'm currenlty learning R and SQL.
 I'm looking to collabrate on Machine Learning and Deep Learning Projects.
 Also I've a good knowledge and Expirence of Working on NLP.
